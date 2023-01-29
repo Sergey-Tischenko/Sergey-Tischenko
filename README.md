@@ -17,14 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="np" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="py" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="py" width="40" height="40"/>&nbsp;
 
-
-          
-
-          
-
-          
-          
+         
 Люблю посещать музеи и галереи, поэтому с удовольствием изучаю не только экспонаты в них, но и данные о музеях в интернете. Жду когда появятся данные за 2022 год, чтобы обновить исследование. 
 А еще я из тех зануд, которые составляют таблички, чтобы принять наиболее взвешенное решение. 
 
