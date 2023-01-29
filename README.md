@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/LWJ7cKyiWPCnVyuAhT" width="480" height="480" />
+  <img src="[[https://giphy.com/embed/LWJ7cKyiWPCnVyuAhT]()](https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif)" width="480" height="480" />
 </div>
-<iframe src="https://giphy.com/embed/LWJ7cKyiWPCnVyuAhT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-cats-princess-cheeto-LWJ7cKyiWPCnVyuAhT">via GIPHY</a></p>
+
 ### Всем привет 👋. 
 
 Я сейчас нахожусь в поисках работы, поэтому открыт к предложениям. 
