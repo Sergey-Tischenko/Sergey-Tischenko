@@ -5,7 +5,7 @@
 ### Всем привет 👋. 
 
 <div id="socials" align="center">
-  <a href="[telegram-ur](https://t.me/moments_of_1ife)l">
+  <a href="[telegram-ur](https://t.me/moments_of_1ife)">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
